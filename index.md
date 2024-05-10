@@ -2,10 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Data Science 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Data Analysis Tool](https://github.com/sashanktalakola/visualization-tool/)
+<img src="images/data-analysis-tool-icon.png"/>
+*   Developed a data analysis tool, for quick exploratory data analysis tasks using the Streamlit framework
+*   Features an intuitive user interface for easy navigation and supports various data visualization techniques for insightful analysis
+*   Provides a user-friendly environment for both novice and experienced users in data analysis
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
