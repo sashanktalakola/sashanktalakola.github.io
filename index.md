@@ -33,4 +33,3 @@ Home Lab
 *   Created a blog website using the Astro framework, leveraging its static site generation capabilities for optimal performance and speed.
 *   Employed Docker for containerizing the application, ensuring consistent deployment across different environments and simplifying the development workflow
 *   Utilized Google Cloud Platform (GCP) for deploying the application, taking advantage of its scalable infrastructure and robust services for reliable hosting and management
----
