@@ -1,9 +1,9 @@
 title: Sashank Talakola
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+logo: "/images/logo.png?raw=true"
+description: >
   I am pursing MS degree in Applied Data Science at Luddy School of Informatics, Indiana University.
   <br><br>
-  <a href="https://www.linkedin.com/in/sashank-talakola-73b199191">LinkedIn</a> 
+  <i class="fa-brands fa-linkedin"></i><a href="https://www.linkedin.com/in/sashank-talakola-73b199191">LinkedIn</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
